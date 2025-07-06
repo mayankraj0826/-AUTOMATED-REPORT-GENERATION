@@ -135,3 +135,6 @@ Esha,40,45,35
 ---
 
 
+## ** OUTPUT **
+<img width="1116" height="1248" alt="Image" src="https://github.com/user-attachments/assets/d3b5486e-0ad5-446a-82e1-6c74dda64c1c" />
+<img width="494" height="223" alt="Image" src="https://github.com/user-attachments/assets/67e9a89b-449a-41af-870f-ef4f64617b87" />
